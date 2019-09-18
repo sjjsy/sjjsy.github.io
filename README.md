@@ -25,7 +25,7 @@ The purpose of the site is to enable and/or facilitate
 The overall plan of the site is as follows:
 
 | URL             | Purpose                                                                        |
-|-----------------+--------------------------------------------------------------------------------|
+| --------------- | ------------------------------------------------------------------------------ |
 | `/`             | A landing page for briefly introducing the visitor to the contents of the site |
 | `/about`        | To describe who am I and what this site is about                               |
 | `/now`          | To describe what I'm currently up to                                           |
