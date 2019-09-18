@@ -1,0 +1,30 @@
+<script>
+    // Source: https://jekyllcodex.org/without-plugin/text-expand/
+    /*window.onload = function() {
+        if (window.jQuery) {  
+            // jQuery is loaded  
+            alert("Yeah!");
+        } else {
+            // jQuery is not loaded
+            alert("Doesn't Work");
+        }
+    }
+    console.log("text-expand!");*/
+    window.jQuery("p").each(function() {
+        // console.log("ppp! " + window.jQuery(this).html());
+        if(window.jQuery(this).html()=='[expand]') {
+            window.jQuery(this).addClass('expand_start');
+            // console.log("ppp.start!");
+        }
+        if(window.jQuery(this).html()=='[/expand]') {
+            window.jQuery(this).addClass('expand_end');
+        }
+    });
+    window.jQuery( "p.expand_start" ).each(function() {
+        window.jQuery(this).nextUntil( window.jQuery("p.expand_end") ).wrapAll("<div class='expand' style='overflow: hidden;'></div>");
+        window.jQuery(this).prev().append('<span>..&nbsp; <a style="cursor: pointer;" onclick="window.jQuery(this).parent().parent().next().slideToggle(); window.jQuery(this).parent().hide();">read&nbsp;more&nbsp;&rarr;</a></span>');
+        window.jQuery(this).remove()
+	});
+    window.jQuery( ".expand").hide();
+    window.jQuery( "p.expand_end" ).hide();
+</script>

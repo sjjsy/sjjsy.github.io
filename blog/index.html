@@ -1,0 +1,16 @@
+---
+layout: archive
+last_modified_at: 2019-09-10T13:00:00+0200
+permalink: /blog/
+header:
+  image: /assets/photos/20150623180048-pl5439-6220-a__4096x900.jpg
+  image_description: "A photo of me and my wife on a wrecked US airplane in Gjirokastër Fortress"
+  teaser: /assets/photos/20150623180048-pl5439-6220-a__4096x900.jpg
+author_profile: true
+---
+
+<h3 class="archive__subtitle">Blog posts</h3>
+
+{% for post in site.posts %}
+  {% include archive-single.html type="grid" date="%B %d, %Y" %}
+{% endfor %}

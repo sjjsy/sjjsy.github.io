@@ -1,12 +1,47 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "About"
+    url: /about/
+    description: Learn more about me!
+  - title: "Now"
+    url: /now/
+    description: Learn what I am currently up to!
+  - title: "Résumé"
+    url: /resume/
+    description: Learn what I have done in the past!
+  - title: "Blog"
+    url: /blog/
+    description: Read my posts!
+  - title: "Connect"
+    url: /connect/
+    description: Learn how to connect with me!
+resume:
+  - title: "Learn about my..."
+    url: "/resume/"
+    children:
+      - title: "Résumé"
+        url: "/resume/"
+      - title: "Goals and interests"
+        url: "/resume/#goals-and-interests"
+      - title: "Skills and knowhow"
+        url: "/resume/#skills-and-knowhow"
+      - title: "Experiences"
+        url: "/resume/#experiences"
+  - title: "Experience Reports"
+    children:
+      - title: "Agile Scrum Coach at Aalto"
+        url: /resume/aalto-asc/
+      - title: "SMOTI Course Assistant at Aalto"
+        url: /resume/aalto-ca-smoti/
+sitemap:
+  - title: "On this website"
+    url: "/"
+    children:
+      - title: "About &#8211; Who I am"
+        url: /about/
+      - title: "Now &#8211; What am I currently up to"
+        url: /now/
+      - title: "Résumé &#8211; What have I done"
+        url: /resume/
+      - title: "Connect &#8211; How to get in touch"
+        url: /connect/

@@ -5,10 +5,10 @@
 /* Colors */
 $text-color: #000 !default;
 $muted-text-color: $text-color !default;
-$primary-color: #ff0000 !default;
-$border-color: mix(#fff, $text-color, 75%) !default;
-$footer-background-color: #000 !default;
-$link-color: #0000ff !default;
+$primary-color: #339933 !default;  /* #ff9933 -- #ff0000 */
+$border-color: #339933 !default; /* #804000 -- mix(#fff, $text-color, 75%) !default; */
+$footer-background-color: #333 !default; /* #000 */
+$link-color: #339933 !default; /* #0000ff */
 $masthead-link-color: $text-color !default;
 $masthead-link-color-hover: $text-color !default;
 $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;

@@ -17,7 +17,7 @@ table {
 }
 
 thead {
-  background-color: $border-color;
+  /*background-color: $border-color;*/
   border-bottom: 2px solid mix(#000, $border-color, 25%);
 }
 
@@ -35,5 +35,12 @@ td {
 tr,
 td,
 th {
-  vertical-align: middle;
+  vertical-align: top;
+}
+
+.table-tight {
+  font-size: $type-size-7;
+  th, td {
+    padding: 0.15em 0.30em;
+  }
 }

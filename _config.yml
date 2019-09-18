@@ -12,23 +12,25 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Samuel Sydänlammi"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Samuel Sydänlammi"
+description              : "Personal website."
+url                      : "https://sjjsy.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+repository               : "sjjsy/sjjsy.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : "/assets/photos/20151028071347-pl5439-3156-a__4096x900.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : "android-chrome-192x192.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+breadcrumbs              : true # true, false (default); It shows linked paths like "Home / About" just above page contents (ie. above the title)
+breadcrumb_home_label    : "Home"
+breadcrumb_separator     : "/"
+words_per_minute         : 60
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
@@ -65,8 +67,8 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
@@ -84,9 +86,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "shmarisa"
 facebook:
-  username               :
+  username               : "samuel.sydanlammi"
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -96,6 +98,13 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://www.linkedin.com/in/samuel-sydanlammi-97013044"
+    - "https://www.facebook.com/samuel.sydanlammi"
+    - "https://www.github.com/sjjsy"
+    - "https://www.flickr.com/photos/smarisa"
+    - "https://www.youtube.com/user/ezorg"
+    - "https://www.instagram.com/samuel.marisa"
+    - "https://www.twitter.com/shmarisa"
 
 # Analytics
 analytics:
@@ -107,52 +116,59 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Samuel Sydänlammi"
+  avatar           : "/assets/photos/20180603161517-em1146-9852-b__1200x1200.jpg" # /assets/photos/sjjsy_square.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  location         : "Helsinki"
+  email            : "FN.LN@iki.fi"
+  bio              : >
+      I am a loving husband, friend, and human being; a fresh alumni of Aalto 
+      University cultivating networks, skills and knowhow in strategy, 
+      business and technology in order to make the world better. I also 
+      identify as a dancer, cyclist, multi-sport enthusiast, nature lover, 
+      photographer; an analyzer and driver. A Finn who feels the urge to
+      contribute to the trajectory of our transnational human society.
+      I'm sure we have a lot in common!
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+#    - label: "Email"
+#      icon: "fas fa-fw fa-envelope-square"
+#      url: mailto:FN.LN@iki.fi
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "http://iki.fi/samuel.sydanlammi"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/samuel-sydanlammi-97013044"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://facebook.com/samuel.sydanlammi"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://github.com/sjjsy"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/shmarisa"
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      url: "https://instagram.com/samuel.marisa"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/samuel-sydanlammi-97013044"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://facebook.com/samuel.sydanlammi"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://github.com/sjjsy"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/shmarisa"
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      url: "https://instagram.com/samuel.marisa"
 
 
 # Reading Files
@@ -183,8 +199,7 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
+  - _safe
 keep_files:
   - .git
   - .svn
@@ -220,8 +235,8 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+paginate: 8 # amount of posts to show
+paginate_path: /blog/page:num
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
@@ -279,16 +294,48 @@ compress_html:
     envs: development
 
 
+collections:
+  resume:
+    output: true
+    permalink: /:collection/:path/
+  posts:
+    output: true
+    permalink: /:collection/:path/
+
+
 # Defaults
 defaults:
-  # _posts
+  # _pages    See https://mmistakes.github.io/minimal-mistakes/docs/pages/
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      toc: true
+      toc_sticky: true
+      author_profile: true
+  # _resume   See https://mmistakes.github.io/minimal-mistakes/docs/collections/
+  - scope:
+      path: ""
+      type: resume
+    values:
+      layout: single
+      toc: true
+      toc_sticky: true
+      author_profile: true
+      read_time: true
+      share: true
+  # _posts    See https://mmistakes.github.io/minimal-mistakes/docs/posts/
   - scope:
       path: ""
       type: posts
     values:
       layout: single
+      toc: true
+      toc_sticky: true
       author_profile: true
       read_time: true
       comments: # true
       share: true
       related: true
+

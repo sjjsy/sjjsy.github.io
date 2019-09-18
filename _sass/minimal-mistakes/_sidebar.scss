@@ -19,7 +19,7 @@
   @include breakpoint($large) {
     float: left;
     width: calc(#{$right-sidebar-width-narrow} - 1em);
-    opacity: 0.75;
+    opacity: 0.90;
     -webkit-transition: opacity 0.2s ease-in-out;
     transition: opacity 0.2s ease-in-out;
 
@@ -37,7 +37,7 @@
   }
 
   @include breakpoint($x-large) {
-    width: calc(#{$right-sidebar-width} - 1em);
+    width: calc(#{$right-sidebar-width} - calc(70px - 1em)); /* 1em */
   }
 
   > * {
@@ -89,12 +89,19 @@
       position: sticky;
       top: 2em;
       float: right;
+      /* Added to support very long ToCs */
+      overflow-y: auto;
+      /* calculate height of nav list
+         viewport height - nav height - masthead x-padding
+      */
+      height: calc(100vh - #{$nav-height} - 2em);
     }
   }
 
   @include breakpoint($x-large) {
     width: $right-sidebar-width;
     margin-right: -1 * $right-sidebar-width;
+    padding-left: calc(70px - 1em); /* 1em */
   }
 }
 
@@ -117,8 +124,8 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 36px;
-  height: 36px;
+  width: 50%; /* 36px */
+  height: 8em; /* 36px */
 
   @include breakpoint($large) {
     display: block;
@@ -127,7 +134,7 @@
   }
 
   img {
-    max-width: 110px;
+    max-width: 100%; /* 110px */
     border-radius: 50%;
 
     @include breakpoint($large) {
