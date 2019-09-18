@@ -4,8 +4,8 @@ last_modified_at: 2019-09-17T17:00:00+0200
 permalink: /resume/
 header:
   image: /assets/photos/20150703142056-pl5439-7796-a__4096x900.jpg # assets/photos/20151028071347-pl5439-3156-a__4096x900.jpg
-  #image_description: "Samuel smiling toward the sun in Albania's Accursed Mountains"
-  #teaser: /assets/photos/20150703142056-pl5439-7796-a__4096x900.jpg
+  image_description: "Samuel smiling toward the sun in Albania's Accursed Mountains"
+  teaser: /assets/photos/20150703142056-pl5439-7796-a__4096x900.jpg
 author_profile: true
 toc: true
 ---
