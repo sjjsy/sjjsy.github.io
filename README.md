@@ -1,7 +1,7 @@
 # My personal website
 
-Based on the [Minimal Mistakes Jekyll 
-theme](https://mmistakes.github.io/minimal-mistakes/).
+This is based on the Jekyll theme [Minimal 
+Mistakes](https://mmistakes.github.io/minimal-mistakes/).
 
 The purpose of the site is to enable and/or facilitate
 - Professional marketing -- Having a site where I have my résumé with all
@@ -24,21 +24,10 @@ The purpose of the site is to enable and/or facilitate
 
 The overall plan of the site is as follows:
 
-`/`               |  A landing page briefly introducing the visitor to
-                     the contents of the site |
-`/about`          |  Describes who am I and what this site is about
-`/now`            |  Describe's what I'm currently up to
-`/resume`         |  Describes my résumé as well as provides content for
-                     professional marketing.
-`/blog`           |  Perhaps this is not needed, just go to the categories
-                     archive!
-
-Todo:
-
-- Update and finalize the résumé page
-- Update and finalize the résumé experience pages
-- Update and finalize about, now and goals
-- Finalize the blog and its archives
-- Enhance the landing page
-- Add a photography related page
-- Add a WCS related page
+| URL             | Purpose                                                                        |
+|-----------------+--------------------------------------------------------------------------------|
+`/`               | A landing page for briefly introducing the visitor to the contents of the site |
+`/about`          | To describe who am I and what this site is about                               |
+`/now`            | To describe what I'm currently up to                                           |
+`/resume`         | To describe my résumé as well as provides content for professional marketing   |
+`/blog`           | To provide a root page for exploring the blog                                  |

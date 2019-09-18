@@ -1,10 +1,11 @@
 ---
 layout: splash
+last_modified_at: 2019-09-18 13:00:00 +0200
 permalink: /
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/photos/20150705130234-pl5439-8336-a__4096x900.jpg  # /assets/photos/20150703143812-pl5439-7829-a__4096x900.jpg  # /assets/photos/20151028071347-pl5439-3156-a__2048x320.jpg  # 20170529020517-em1146-9900-a__2048x320.jpg
-  overlay_filter: 0.2
+  overlay_filter: 0.1
   actions:
     - label: "<i class='fas fa-comments'></i> Connect with me"
       url: "/connect/"

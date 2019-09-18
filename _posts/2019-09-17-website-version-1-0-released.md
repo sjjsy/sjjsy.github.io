@@ -27,7 +27,7 @@ Other resources I found very useful include the following:
 - Minimal Mistakes [GitHub repository](https://github.com/mmistakes/minimal-mistakes),
   [docs](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
   and its examples, such as [this](https://mmistakes.github.io/minimal-mistakes/markup/markup-image-alignment/)
-  (on markup).
+  (on markup)
 - [FontAwesome Icon Gallery](https://fontawesome.com/icons?d=gallery&s=solid&m=free)
 - [Kramdown syntax](https://kramdown.gettalong.org/syntax.html)
 

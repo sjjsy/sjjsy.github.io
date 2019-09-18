@@ -1,6 +1,6 @@
 ---
 title: About
-last_modified_at: 2019-09-10T13:00:00+0200
+last_modified_at: 2019-09-16T13:00:00+0200
 permalink: /about/
 #sidebar:
 #  - title: "Samuel Sydänlammi"

@@ -1,6 +1,6 @@
 ---
 title: Now
-date: 2019-09-10 13:00:00 +0200
+last_modified_at: 2019-09-13 13:00:00 +0200
 permalink: /now/
 header:
   image: /assets/photos/20150703143812-pl5439-7829-a__4096x900.jpg

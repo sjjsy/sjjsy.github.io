@@ -1,6 +1,6 @@
 ---
 title: Connect
-date: 2019-09-10 13:00:00 +0200
+last_modified_at: 2019-09-18 13:00:00 +0200
 permalink: /connect/
 #sidebar:
 #  - title: "Samuel Sydänlammi"
