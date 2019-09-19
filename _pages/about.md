@@ -24,9 +24,12 @@ header:
 **I am Samuel**, a loving **husband**, brother, son, friend, human being, and 
 a fresh **alumni of Aalto University** aspiring to become an expert in 
 contributing to the development of technology-intesive organizations. I am 
-also a West Coast Swing **dancer**, all-year commute **cyclist**,
+also a West Coast Swing **dancer**, all-year commute **cyclist**, 
 long-distance **runner**, martial arts and **multi-sport enthusiast**, 
-**nature lover**, **photographer**, and a **nerd** over many subjects.
+**nature lover**, **photographer**, and a **nerd** over many subjects. I was 
+raised in a **Finnish-French** family in the countryside in Southwest Finland, 
+completed my upper secondary school in Turku and moved to the Helsinki Area to 
+pursue higher education.
 
 <!-- I am a fresh **alumni of Aalto University** Department of Industrial 
 Engineering and Management. I majored on **strategy and venturing** but also 
