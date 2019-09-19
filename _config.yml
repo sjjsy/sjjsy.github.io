@@ -30,7 +30,7 @@ masthead_title           : # overrides the website title displayed in the masthe
 breadcrumbs              : true # true, false (default); It shows linked paths like "Home / About" just above page contents (ie. above the title)
 breadcrumb_home_label    : "Home"
 breadcrumb_separator     : "/"
-words_per_minute         : 60
+words_per_minute         : 120
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
@@ -108,11 +108,10 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google-gtag" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
-    anonymize_ip         : # true, false (default)
-
+    tracking_id          : "UA-148358427-1"
+    anonymize_ip         : false # true, false (default)
 
 # Site Author
 author:
