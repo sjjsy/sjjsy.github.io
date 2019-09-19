@@ -1,6 +1,6 @@
 ---
 title: About
-last_modified_at: 2019-09-16T13:00:00+0200
+last_modified_at: 2019-09-19T10:00:00+0200
 permalink: /about/
 #sidebar:
 #  - title: "Samuel Sydänlammi"
@@ -27,7 +27,7 @@ contributing to the development of technology-intesive organizations. I am
 also a West Coast Swing **dancer**, all-year commute **cyclist**, 
 long-distance **runner**, martial arts and **multi-sport enthusiast**, 
 **nature lover**, **photographer**, and a **nerd** over many subjects. I was 
-raised in a **Finnish-French** family in the countryside in Southwest Finland, 
+raised in a **Finnish-French** family in the countryside of Southwest Finland, 
 completed my upper secondary school in Turku and moved to the Helsinki Area to 
 pursue higher education.
 

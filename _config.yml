@@ -98,13 +98,13 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://www.linkedin.com/in/samuel-sydanlammi-97013044"
+    - "https://www.linkedin.com/in/samuel-sydanlammi"
     - "https://www.facebook.com/samuel.sydanlammi"
     - "https://www.github.com/sjjsy"
-    - "https://www.flickr.com/photos/smarisa"
-    - "https://www.youtube.com/user/ezorg"
-    - "https://www.instagram.com/samuel.marisa"
-    - "https://www.twitter.com/shmarisa"
+#    - "https://www.flickr.com/photos/smarisa"
+#    - "https://www.youtube.com/user/ezorg"
+#    - "https://www.instagram.com/samuel.marisa"
+#    - "https://www.twitter.com/shmarisa"
 
 # Analytics
 analytics:
@@ -136,7 +136,7 @@ author:
       url: "http://iki.fi/samuel.sydanlammi"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/samuel-sydanlammi-97013044"
+      url: "https://linkedin.com/in/samuel-sydanlammi"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/samuel.sydanlammi"
@@ -155,7 +155,7 @@ footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/samuel-sydanlammi-97013044"
+      url: "https://linkedin.com/in/samuel-sydanlammi"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/samuel.sydanlammi"

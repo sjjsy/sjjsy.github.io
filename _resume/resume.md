@@ -128,7 +128,7 @@ Toolbox
 | Cloud document storage                      | Google Drive                                                       | Dropbox                                                               | OwnCloud
 | Writing and reporting                       | LaTeX, LibreOffice Writer, Google Docs                             | ReStructuredText, Markdown, Microsoft Word                            | LyX
 | Preparing slide presentations               | Google Slides                                                      | LaTeX beamer                                                          | Microsoft Powerpoint, LibreOffice Impress
-| Application and back-end web development    | Python                                                             | C, C++, Java, Ruby, Scala, PyQt5, Django, PostgreSQL, BASIC, PICAXE   | Node.js, Lua, PHP, Flask, MongoDB, Heroku, OpenGL, Boost
+| Application and back-end web development    | Bash, Python                                                       | C, C++, Java, Ruby, Scala, PyQt5, Django, PostgreSQL, BASIC, PICAXE   | Node.js, Lua, PHP, Flask, MongoDB, Heroku, OpenGL, Boost
 | Front-end web development                   | HTML5, CSS                                                         | JavaScript, SCSS, LESS, Jekyll, CoffeeScript, Angular2                | Backbone.js, React, GoHugo
 | Data analysis and computation               | Pandas, LibreOffice Calc, Google Sheets                            | Anaconda, Numpy, R, Octave/Matlab                                     | Gringo, Microsoft Excel, Minitabs, Maxima/Mathematica, SLURM
 | Data visualization                          |                                                                    | Matplotlib, Bokeh, Jupyter, Gnuplot, LibreOffice Calc, Google Sheets  | GraphViz, Microsoft Excel
@@ -515,7 +515,7 @@ Toolbox
 : Preparing slide presentations
   : Google Slides; (LaTeX beamer, Microsoft Powerpoint, LibreOffice Impress)
 : Application and back-end web development
-  : Python; (C, C++, Java, Ruby, Scala, PyQt5, Django, PostgreSQL, BASIC,
+  : Bash, Python; (C, C++, Java, Ruby, Scala, PyQt5, Django, PostgreSQL, BASIC,
     PICAXE; Node.js, Lua, PHP, Flask, MongoDB, Heroku, OpenGL, Boost)
 : Front-end web development
   : HTML5, CSS; (JavaScript, SCSS, LESS, Jekyll, CoffeeScript, Angular2; Backbone.js, React, GoHugo)
