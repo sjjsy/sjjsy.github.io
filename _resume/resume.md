@@ -76,10 +76,46 @@ so contributes to realizing my career plan.
 - Goals and rewards motivate me to work hard
 -->
 
-## <i class='fas fa-tools'></i> Toolbox
+## <i class='fas fa-tools'></i> Education, knowhow and toolbox
 
-The following concisely describes the tools with which I have gained 
-considerable hands-on experience.
+My knowhow largely stems from my academic education which has been deepened by 
+my work and project experiences, most of which are described in subsequent 
+sections.
+
+Education
+
+: **Master of Science** (Technology) from Aalto University Master's 
+  Programme in Industrial Engineering and Management in the major of 
+  **Strategy and Venturing**, minoring in **Data Science and Analytics** 
+  (06/2019)
+
+: **Bachelor of Science** (Technology) from Aalto University Bachelor's
+  Programme in Science and Technology in the major of **Industrial Engineering 
+  and Management**, minoring in **Computer Science and Engineering** (08/2017)
+
+: **Certified ScrumMaster** (CSM) by Scrum Alliance after a training by 
+  [Agile42](https://www.agile42.com/) (10/2017)
+
+Knowhow
+
+: **Strategy, Venturing and Industrial Management**: strategic management,
+  operations management, project management, managerial accounting and 
+  finance, service operations, strategy research, venturing, entrepreneurial 
+  leadership, entrepreneurial marketing
+
+: **Computer Science and Engineering**: software engineering, software design
+  and modelling, software development, web software development, software 
+  project management, data structures and algorithms, database management
+
+: **Data Science and Analytics**: computational statistics, optimization,
+  machine learning, artificial intelligence, operations research
+
+: **Interpersonal**: customer service, teamwork, coordination, leadership
+
+Toolbox
+
+: The following concisely describes the tools with which I have gained 
+  considerable hands-on experience.
 
 | \ Expertise level                           | Proficient                                                         | Rehearsed                                                             | Familiar                                                           |
 | Category                                    | (400+ h and used recently)                                         | (~80+ h)                                                              | (~20-80 h)                                                         |
@@ -101,8 +137,8 @@ considerable hands-on experience.
 | Accounting                                  |                                                                    | GnuCash                                                               | Tappio
 {: .table-tight }
 
-Note: I am motivated to expand this toolbox. In addition, I believe my 
-greatest strengths include enthusiasm, energy and drive which allow me to 
+Note: I am motivated to expand my knowhow and toolbox. In addition, I believe 
+my greatest strengths include enthusiasm, energy and drive which allow me to 
 forcefully tackle any challenge, including learning new skills and knowhow. I 
 am thus very willing to invest free time into eg. expanding my language 
 skills, especially if such investment is likely to be professionally 
@@ -146,7 +182,7 @@ Strategy, Venturing and Industrial Management:
 - venturing
 -->
 
-## <i class='fas fa-business-time'></i> Experiences
+## <i class='fas fa-business-time'></i> Project and work experiences
 
 <!-- Both major and minor experiences listed chronologically in a tabular
      format with the following information structurally highlighted:
@@ -437,11 +473,11 @@ Career goals
 
 Education
 : Master of Science (Technology)
-  : from the Aalto University Master's Programme in Industrial Engineering and
+  : from Aalto University Master's Programme in Industrial Engineering and
     Management in the major of **Strategy and Venturing**, minoring in **Data
     Science and Analytics** (06/2019)
 : Bachelor of Science (Technology)
-  : from the Aalto University Bachelor's Programme in Science and Technology in
+  : from Aalto University Bachelor's Programme in Science and Technology in
     the major of **Industrial Engineering and Management**, minoring in
     **Computer Science and Engineering** (08/2017)
 : Other
