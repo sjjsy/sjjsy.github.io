@@ -55,8 +55,8 @@ Via this website you can...
   the short and long-term goals that I focus on;
 - Study my [résumé](/resume/) page to learn about some of my achievements
   and professional experiences;
-- Read my [blog](/blog/) page to get an understanding of what I have written
-  about; and finally,
+- Read my [blog](/blog/) to get an understanding of what I have written about;
+  and finally,
 - View my [connect](/connect/) page to learn how to best connect with me!
 
 ## What do I believe in?
@@ -130,11 +130,11 @@ This partially also explains why I created this website. I enjoy the idea that
 everything I do builds me, my personality, my knowledge, skills and interests, 
 and that this website is able to capture some of that such that other people 
 can analyze it, relate to or question it, and react to it. The idea motivates 
-me to collect, organize and sharing some of the many bits of who I am and what 
-I have done -- how I have progressed -- for easier access and analysis by 
-myself and others. They say that maintaining an online presence of yourself 
-pushes you to become the best possible you. I would love to witness the 
-evolution of this website and see its impact on who I become!
+me to collect, organize and share some of the many bits of who I am and what I 
+have done -- how I have progressed -- for easier access and analysis by myself 
+and others. They say that maintaining an online presence of yourself pushes 
+you to become the best possible you. I would love to witness the evolution of 
+this website and see its impact on who I become!
 
 ## What is my mission?
 
