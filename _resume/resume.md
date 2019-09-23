@@ -42,7 +42,7 @@ Short-term goals
   the following:
 
   1.  Gain 2-4 years of experience working as a full-time consultant in at least 
-      one renowned strategy, business and/or technology consulting firms with 
+      one renowned strategy, business and/or technology consulting firm with 
       exposure to various types of business challenges and industries.
   2.  Gain experience working a) within at least two different teams and work 
       cultures, and b) under the leadership of a great leader/coach role model.
@@ -250,7 +250,8 @@ Graduated with honours from Aalto University
   Aalto University Master's Programme in Industrial Engineering and Management
   with the major of Strategy and Venturing and minor of Data Science and
   Analytics which I believe to be one of the most competitive and demanding
-  master's degree programmes in Finland.
+  master's degree programmes in Finland. I also received the Dean’s Incentive
+  Scholarship for my fast pace of study attainment.
   See the [experience description](#aalto-msc) for more info.
 
 Positive feedback as Agile Scrum Coach at Aalto University
@@ -302,15 +303,15 @@ While I am goal-oriented and active in my professional life, I am similarly
 ambitious and active in my personal life:
 
 Running
-: I have thus far completed four marathons (and the fifth is already
-  scheduled) and many more shorter distances. My personal bests are
-  3h14 for a marathon, 1h32 for a half marathon, 38:50 for a 10 km, and
-  14:50 for a 4 km. I have placed at the top three in some smaller events,
-  and eg. during my military training I scored highest in my company in the
-  new recruits' Cooper's test. I also participated in a team representing my
-  company in an orienteering competition and in a relay running competition.
-  The latter was organized during my training at the Reserve Officer School
-  and our team ranked second, after only the team of Utti Jaeger Regiment.
+: I have thus far completed four marathons and many more shorter distances. My
+  personal bests are 3h14 for a marathon, 1h32 for a half marathon, 38:50 for 
+  a 10 km, and 14:50 for a 4 km. I have placed at the top three in some 
+  smaller events, and eg. during my military training I scored highest in my 
+  company in the new recruits' Cooper's test. I also participated in a team 
+  representing my company in an orienteering competition and in a relay 
+  running competition. The latter was organized during my training at the 
+  Reserve Officer School and our team ranked second, after only the team of 
+  Utti Jaeger Regiment.
 
 Cycling
 : For me cycling is not a racing sport, instead it is a healthy sporty mode 
