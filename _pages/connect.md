@@ -24,7 +24,7 @@ I would be happy to connect with you!
 ## Connect face-to-face
 
 I'm based in Helsinki. I like to jog in Helsinki Central Park, near Metsälä, 
-and dance at West Coast Swing events organized by Rock'n'Roll Dance Club 
+and dance at West Coast swing events organized by Rock'n'Roll Dance Club 
 Comets. Come jog or dance with me, maybe? Connect and message me online or 
 directly suggest a time via [Doodle MeetMe](https://doodle.com/samsy) to 
 schedule a meeting!

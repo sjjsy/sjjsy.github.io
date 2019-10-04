@@ -24,7 +24,7 @@ header:
 **I am Samuel**, a loving **husband**, brother, son, friend, human being, and 
 a fresh **alumni of Aalto University** aspiring to become an expert in 
 contributing to the development of technology-intesive organizations. I am 
-also a West Coast Swing **dancer**, all-year commute **cyclist**, 
+also a West Coast swing **dancer**, all-year commute **cyclist**, 
 long-distance **runner**, martial arts and **multi-sport enthusiast**, 
 **nature lover**, **photographer**, and a **nerd** over many subjects. I was 
 raised in a **Finnish-French** family in the countryside of Southwest Finland, 
@@ -243,10 +243,10 @@ philosophy is demonstrated in my daily life:
     to the music and to the feeling -- how creative, beautiful and intense we 
     can be.
 5.  **I train**. I test my limits also in more technical activites. Previously
-    I've trained martial arts, including muay Thai and Brazilian jiu-jitsu.
+    I've trained martial arts, including Thai boxing and Brazilian jiu-jitsu.
     Since autumn 2017 I've been rather intensely training West Coast swing.
-    I've also taken classes in tango, salsa, zouk, ballet, hip hop, jazz, and
-    modern dancing.
+    I've also taken classes in Argentine tango, cross body salsa, Brazilian
+    zouk, ballet, hip hop, jazz, and modern dancing.
 6.  **I invest**. In addition to investing my time, I invest my other resources,
     including my money. I invest in stocks, real estate, and forests. I also 
     love photography because I see it as a form of investing. Taking a minute 

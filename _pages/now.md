@@ -69,10 +69,10 @@ Currently, I'm focusing on six things:
     <td>
       &#9744; Cultivate the skills that I need in my new full-time work.
       
-      <br> &#9745; Advance as a West Coast Swing dancer such as to gain at
+      <br> &#9745; Advance as a West Coast swing dancer such as to gain at
       least 1 WSDC registry points by the end of the summer.
 
-      <br> &#9745; Advance as a West Coast Swing dancer such as to get accepted
+      <br> &#9745; Advance as a West Coast swing dancer such as to get accepted
       to the level 5 competition training classes in the fall.
     </td>
   </tr>
@@ -94,7 +94,7 @@ Currently, I'm focusing on six things:
   credibility that I need to progress in my career and meet my subsequent career 
   objectives and serve my career purpose. I have identified my strategic 
   weaknesses, strengths and improvement areas.
-* Advance as a West Coast Swing dancer such as to accumulate at least 15 WSDC 
+* Advance as a West Coast swing dancer such as to accumulate at least 15 WSDC 
   registry points.
 
 ### Goals for 2023
@@ -161,7 +161,7 @@ Currently, I'm focusing on six things:
   <tr>
     <td>Liberty</td>
     <td>
-      &#9745; Get to a level in West Coast Swing (WCS) that would make you eligible for competitive and/or level 4 training classes.
+      &#9745; Get to a level in West Coast swing (WCS) that would make you eligible for competitive and/or level 4 training classes.
     </td>
   </tr>
   <tr>

@@ -323,8 +323,8 @@ Cycling
 
 Martial arts
 : I have casually trained various martial arts to keep me physically fit
-  and capable, including hokutoryu ju-jitsu, Brazilian ju-jitsu, judo 
-  wrestling, aikido, boxing, kickboxing and muay Thai. I have also earned a 
+  and capable, including hokutoryu jiu-jitsu, Brazilian jiu-jitsu, judo 
+  wrestling, aikido, boxing, kickboxing and Thai boxing. I have also earned a 
   diploma for completing a training to act as a sports wrestling instructor. I 
   have organized and taught several courses in martial arts during my military 
   service and while leading the martial arts association Otaniemi Fight Club.
@@ -347,14 +347,14 @@ Other sports
 
 Competitive dancing
 : During 2008-2017 I have semi-regularly taken courses in different types
-  of partner dancing styles and attended dance parties. However, since 
-  2017 I have been training more intensively to develop myself as a 
-  competitive West Coast swing dancer. In summer 2019 I earned my first 
-  WSDC point and with my wife we finished third in a Strictly Swing 
-  competition in Tampere. Other dance styles I have trained include tango, 
-  salsa, Brazilian zouk, ballet, hip hop, jazz, modern dancing and Finnish 
-  folk dancing. In 2019, I have spent an average of about 1 hour per day
-  developing my dancing, as of September 17th.
+  of partner dancing styles and attended dance parties. However, since 2017 I 
+  have been training more intensively to develop myself as a competitive West 
+  Coast swing dancer. In summer 2019 I earned my first WSDC point and with my 
+  wife we finished third in a Strictly Swing competition in Tampere. Other 
+  dance styles I have trained include Argentine tango, salsa, Brazilian zouk, 
+  ballet, hip hop, jazz, modern dancing and Finnish folk dancing. In 2019, I 
+  have spent an average of over 1 hour per day developing my dancing, as of 
+  September 17th.
 
 <!-- As I have always been genuinely interested about technology and what is possible
   and thus I have studied technology a lot also during my free time. -->
