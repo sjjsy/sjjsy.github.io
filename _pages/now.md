@@ -42,7 +42,7 @@ Currently, I'm focusing on six things:
       career plans.
 
       <br> &#9744; Figure out what firm, role and community would let me grow and 
-      develop my skills, networks and know-how such that I am later best able 
+      develop my skills, networks and knowhow such that I am later best able 
       to do the kind of service that I want to do.
     </td>
   </tr>
