@@ -307,19 +307,21 @@ Running
   personal bests are 3h14 for a marathon, 1h32 for a half marathon, 38:50 for 
   a 10 km, and 14:50 for a 4 km. I have placed at the top three in some 
   smaller events, and eg. during my military training I scored highest in my 
-  company in the new recruits' Cooper's test. I also participated in a team 
-  representing my company in an orienteering competition and in a relay 
+  company in the new recruits' Cooper's test. I was also selected to represent 
+  my company in an two-person orienteering competition and in a team relay 
   running competition. The latter was organized during my training at the 
   Reserve Officer School and our team ranked second, after only the team of 
-  Utti Jaeger Regiment.
+  Utti Jaeger Regiment. I like running, because it is an effective sport for
+  maintaining and improving one's aerodynamic performance.
 
 Cycling
-: For me cycling is not a racing sport, instead it is a healthy sporty mode 
-  of transport. I have done much of my commuting by bike since my childhood, 
-  even during the winter months. According to Sports Tracker I cycled 3689 
-  km in 2018 and my record is 2016 during which I cycled 4048 km and spent 
-  150279 kilocalories doing so. My longest distance within a day is 201 km 
-  (from Tampere to Helsinki) which I completed in 8h50 plus a lunch break.
+: For me cycling is not a racing sport, instead it is an invigorating mode 
+  of transport, especially when the weather conditions are intense. I have 
+  done much of my commuting by bike since my childhood, even during the winter 
+  months. According to Sports Tracker I cycled 3689 km in 2018 and my record 
+  is 2016 during which I cycled 4048 km and spent 150 megacalories doing so. 
+  My longest distance within a day is 201 km (from Tampere to Helsinki) which 
+  I completed in 8h50 plus a lunch break.
 
 Martial arts
 : I have casually trained various martial arts to keep me physically fit
@@ -331,19 +333,18 @@ Martial arts
 
 Other sports
 : I have also more or less regularly trained (and in some instances even
-  competed) in many other sports including strength training, bodypump, 
-  indoor and outdoor swimming, kayaking, orienteering, backcountry skiing, 
-  ski trekking, hiking, trekking, bouldering, top-rope climbing, tennis, 
-  football. For instance, with my friends we have completed trekking trips 
-  such as trekking 101 km and sleeping two nights at uninsulated lean-tos 
-  around snowy Koli National Park in 49 hours, ski trekking 73 km on the 
-  frozen Baltic Sea and sleeping in a tent on an island in 24 hours, 
-  backcountry skiing 71 km in 14 hours, and kayaking 53 km in 41 hours in 
-  the archipelago of Porkkala. Also with my wife we have trekked 64 km 
-  with 5627 meters of ascent and 5678 meters of descent from Albania to 
-  Montenegro through the Accursed Mountains in three days and eg. 
-  conquered Hochstuhl in 9 hours (~20 km with ~1930 meters of ascent and 
-  descent).
+  competed) in many other sports including strength training, bodypump, indoor 
+  and outdoor swimming, kayaking, orienteering, backcountry skiing, ski 
+  trekking, hiking, trekking, bouldering, top-rope climbing, tennis, football. 
+  For instance, with my friends we have completed trekking trips such as 
+  trekking 101 km and sleeping two nights at uninsulated lean-tos around snowy 
+  Koli National Park in 49 hours, ski trekking 73 km on the frozen Baltic Sea 
+  and sleeping in a tent on an island in 24 hours, backcountry skiing 71 km in 
+  14 hours, and kayaking 53 km in 41 hours in the archipelago of Porkkala. 
+  Also with my wife we have trekked 64 km with more than 5600 meters of ascent 
+  and descent from Albania to Montenegro through the Accursed Mountains in 
+  three days and eg. conquered Hochstuhl in 9 hours (~20 km with ~1930 meters 
+  of ascent and descent).
 
 Competitive dancing
 : During 2008-2017 I have semi-regularly taken courses in different types
@@ -405,24 +406,24 @@ Learning about technology
 Investing in financial assets and the future
 : I invest in stocks, real estate, and forestry. By the end of my studies I had
   developed a portfolio with a net worth of about 50 k€ out of my own earnings 
-  from part-time work even though accumulating wealth had not been among my 
-  top priorities during my student life by that point. I also try to become 
-  net positive when it comes to my net environmental effects. Thus I try to 
-  minimize my ecological footprint in many ways, contribute to eg. 
-  [Compensate](https://compensate.com/) and try to raise awareness among 
-  people around me. I believe these are ways to invest into a better and more 
-  secure future.
+  from part-time work even though accumulating wealth and managing financial 
+  investments had not been among my top priorities during my student life by 
+  that point. I also try to become net positive when it comes to my net 
+  environmental effects. Thus I try to minimize my ecological footprint in 
+  many ways, contribute to eg. [Compensate](https://compensate.com/) and try 
+  to raise awareness among people around me. I believe these are ways to 
+  invest into a better and more secure future.
 
-Investing in strong general understanding of the world
+Investing in a strong general understanding of the world
 : Inspired by the polymaths and Renaissance men of history I try to constantly
   study new information from a plethora of subjects, news and media sources, 
-  as well as from non-fiction literature, and knowledge repositories such as 
-  [Wikipedia](https://en.wikipedia.org/). I try aim to keep myself civilized 
-  and informed in order to ensure I have sound judgement. I used to also 
-  actively contribute to discussions in social media. Themes I currently find 
-  interesting include economics, politics, climate change and health among 
-  others. In 2019, I have invested about 172 hours into civilizing myself, as 
-  of September 17th.
+  as well as from non-fiction literature, knowledge repositories such as 
+  [Wikipedia](https://en.wikipedia.org/) and popular culture. I aim to keep 
+  myself civilized and informed in order to ensure I have sound judgement. I 
+  used to also actively contribute to discussions in social media. Themes I 
+  currently find interesting include technology, economics, politics, climate 
+  change, energy and health among others. In 2019, I have invested about 172 
+  hours into civilizing myself, as of September 17th.
 
 <!--
 marathon: 3:13:30 Jesus Marathon - https://sports-tracker.com/workout/ezorg/5d807b0d12499236f50c49f9

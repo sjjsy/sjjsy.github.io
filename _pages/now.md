@@ -79,9 +79,9 @@ Currently, I'm focusing on six things:
   <tr>
     <td>Service</td>
     <td>
-      &#9745; I have graduated as MSc (tech) with honours.
+      &#9745; Graduate as MSc (tech) with honours.
 
-      <br> &#9744; I have started working full-time in a consultancy that
+      <br> &#9744; Start working full-time in a consultancy that
       effectively serves society.
     </td>
   </tr>
@@ -119,7 +119,7 @@ Currently, I'm focusing on six things:
 * I have gained solid experience in leading a team/organization/business unit, 
   and as an enterpreneur and/or tech investor.
 * My capacity for value-generation has climbed such as to enable earnings 
-  clearly in excess of the 75th percentile salary of fellow alumnis that 
+  clearly in excess of the 75th percentile salary of fellow MSc alumnis that 
   graduated around the same year.
 
 ### Goals for 2040
