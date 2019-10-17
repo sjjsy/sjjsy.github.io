@@ -22,13 +22,13 @@ and tasks that I maintain for myself.
 
 Currently, I'm focusing on six things:
 
-1. Fulfilling my childhood dream of establishing and maintaining a personal
+1. Starting a full-time job that fits my goals/values.
+2. Helping my wife, my sister and I to buy an apartment
+3. Helping to establish a new business venture.
+4. Training West Coast swing dancing as much as I can.
+5. Being social and loving to people around me.
+6. Fulfilling my childhood dream of establishing and maintaining a personal
    website.
-2. Starting a full-time job that fits my goals/values.
-3. Finding an apartment to buy with my wife.
-4. Helping to establish a startup.
-5. Training West Coast swing dancing as much as I can.
-6. Being social and loving to people around me.
 
 ## Horizon
 
