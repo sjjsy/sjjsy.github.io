@@ -119,8 +119,8 @@ Currently, I'm focusing on six things:
 * I have gained solid experience in leading a team/organization/business unit, 
   and as an enterpreneur and/or tech investor.
 * My capacity for value-generation has climbed such as to enable earnings 
-  clearly in excess of the 75th percentile salary of fellow MSc alumnis that 
-  graduated around the same year.
+  in excess of the 75th percentile of fellow MSc alumnis that graduated around
+  the same year.
 
 ### Goals for 2040
 
