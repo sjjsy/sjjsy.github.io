@@ -51,7 +51,7 @@ Short-term goals
       expert focusing on broader business challenges, and c) as a sales/customer
       manager focusing on short and long-term customer satisfaction.
   4.  Gain a deeper understanding of my strategic weaknesses, strengths and
-      improvement areas -- information needed to optimize by career plan.
+      improvement areas -- information needed to optimize my career plan.
 
 See my [now](/now/) page for a broader description of my goals (both personal 
 and professional) and my [about](/about/) page for a description of eg. my 
