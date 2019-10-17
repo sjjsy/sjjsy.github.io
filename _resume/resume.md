@@ -254,6 +254,16 @@ Graduated with honours from Aalto University
   Scholarship for my fast pace of study attainment.
   See the [experience description](#aalto-msc) for more info.
 
+Praised by Professor of Development and Management in Industry
+: Professor Ilkka Kauranen supervised [my Master's Thesis](#aalto-mth) and
+  collaborated with me in delivering [a strategy course](#aalto-smoti-ca). He 
+  praised my capacity for abstract thinking, strategic analysis, and 
+  thoroughness which I demonstrated in my thesis work. In his written 
+  assessment of our collaboration with the course, he wrote that my 
+  "performance was exemplary in all measures" and that I was polite and 
+  diplomatic towards course participants and that it was a great pleasure to 
+  work with me.
+
 Positive feedback as Agile Scrum Coach at Aalto University
 : I received very positive feedback from my work from both my coachees and my
   supervisor: From my coachees I received feedback that I am professional, 
@@ -280,22 +290,23 @@ Excellent work at MAFY-valmennus
   achievements relating to several areas of the business including the 
   development of customer service, sales and accounting processes, product 
   pricing, human resources development, recruiting, and software development.
+  The succeeding CEO of the company also praised me for "irreplaceable"
+  contributions, to human resources, software development and other areas,
+  thus helping them sustain their strong competitive advantage.
   See the [experience description](#mafy-mc) for more info.
 
 Best team at Pythagoraan polku
 : Our team ranked 1/14 in the competitive mathematics contest Pythagoraan
-  polku where each four member team representing their mathematically
-  oriented secondary school was to solve 20 problems relating to algebra,
-  geometry, analysis, number theory and/or combinatorics in at most 3
-  hours.
-  See the [experience description](#maol-ppc) for more info.
+  polku where each four member team representing their mathematically oriented 
+  secondary school was to solve 20 problems relating to algebra, geometry, 
+  analysis, number theory and/or combinatorics in at most 3 hours. See the 
+  [experience description](#maol-ppc) for more info.
 
 Excellent performance at Datatähti
 : I ranked 10th in the competitive programming competition Datatähti and
-  subsequently I was asked to join the preparatory course for the Baltic
-  Olympiad in Informatics which I rejected due to conflicts related with my
-  military service.
-  See the [experience description](#maol-dtc) for more info.
+  subsequently I was asked to join the preparatory course for the Baltic 
+  Olympiad in Informatics which I rejected due to conflicts related with my 
+  military service. See the [experience description](#maol-dtc) for more info.
 
 ## <i class='fas fa-heartbeat'></i> Non-professional passions
 
@@ -564,6 +575,10 @@ Recent achievements
     from Aalto University Master’s Programme in Industrial Engineering and
     Management with the major of Strategy and Venturing and minor of Data
     Science and Analytics.
+: Praised by Professor of Development and Management in Industry (06/2019)
+  : Professor Kauranen praised my capacity for abstract thinking, strategic
+    analysis, and thoroughness which I demonstrated in my thesis work. I also
+    received compliments for being polite, diplomatic and amicable as a person.
 : Positive feedback as Agile Scrum Coach at Aalto University (04/2019)
   : From my coachees I received feedback that I am professional,
     hard working, energizing, and communicate effectively; My supervisor
@@ -582,4 +597,4 @@ Recent achievements
 
 Strengths
 : enthusiasm, drive, energy, goal-orientation, analytical thinking, growth
-  mindset, ability to learn new skills and knowhow
+  mindset, ability to learn new skills and knowhow, love to serve
