@@ -96,6 +96,9 @@ Education
 : **Certified ScrumMaster** (CSM) by Scrum Alliance after a training by 
   [Agile42](https://www.agile42.com/) (10/2017)
 
+: **Platoon Leader** (2nd Lieutenant) by Finnish Defence Forces after a 12 
+  month training at Pori Brigade and the Reserve Officer School (07/2010)
+
 Knowhow
 
 : **Strategy, Venturing and Industrial Management**: strategic management,
@@ -319,7 +322,7 @@ Running
   a 10 km, and 14:50 for a 4 km. I have placed at the top three in some 
   smaller events, and eg. during my military training I scored highest in my 
   company in the new recruits' Cooper's test. I was also selected to represent 
-  my company in an two-person orienteering competition and in a team relay 
+  my company in a two-person orienteering competition and in a team relay 
   running competition. The latter was organized during my training at the 
   Reserve Officer School and our team ranked second, after only the team of 
   Utti Jaeger Regiment. I like running, because it is an effective sport for
@@ -495,6 +498,7 @@ Education
     **Computer Science and Engineering** (08/2017)
 : Other
   : Certified ScrumMaster (CSM) by Scrum Alliance (10/2017)
+  : Platoon Leader (2nd Lieutenant) by Finnish Defence Forces (07/2010)
 
 Knowhow
 : Strategy, Venturing and Industrial Management
@@ -591,9 +595,10 @@ Recent achievements
     the course staff of Aalto University course "Advanced Strategic
     Management" (5 cr).
 : Excellent work at MAFY-valmennus (11/2016)
-  : In late 2016 the CEO/owner of MAFY-valmennus organized a company-wide
-    celebration to praise my leaderful, responsible and effective work and
-    subsequent achievements.
+  : Both the firm's Owner-CEO and the first hired CEO praised me. The first
+    for my leaderful, responsible and effective work and subsequent achievements.
+    The second for "irreplaceable" contributions in various areas that helped
+    them sustain their strong competitive advantage.
 
 Strengths
 : enthusiasm, drive, energy, goal-orientation, analytical thinking, growth

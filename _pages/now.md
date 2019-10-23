@@ -23,7 +23,7 @@ and tasks that I maintain for myself.
 Currently, I'm focusing on six things:
 
 1. Starting a full-time job that fits my goals/values.
-2. Helping my wife, my sister and I to buy an apartment
+2. Helping my wife, my sister and myself to invest into an apartment
 3. Helping to establish a new business venture.
 4. Training West Coast swing dancing as much as I can.
 5. Being social and loving to people around me.
